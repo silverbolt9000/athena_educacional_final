@@ -19,9 +19,12 @@ Este projeto é um **simulador educacional** inspirado nas ferramentas **Athena/
 ## ▶️ Como Usar
 
 ### Servidor
+```
 cd lp_server
 python app.py
-
+```
 ### Cliente
+```
 cd implant/client
 python agent.py
+```
